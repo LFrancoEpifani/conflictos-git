@@ -1,0 +1,10 @@
+1) git clone
+2) git branch
+3) git checkout practica01
+4) vim
+5 y 6) git checkout -b
+7) vim
+8) git remote remove URL
+8) git remote add origin URL
+9) git checkout
+10) git merge nombre repo
